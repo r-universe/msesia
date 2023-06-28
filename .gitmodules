@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "knockoff"]
 	path = knockoff
 	url = https://github.com/cran/knockoff
-	shallow = true
-	registered = true
 [submodule "SNPknock"]
 	path = SNPknock
 	url = https://github.com/msesia/snpknock
-	shallow = true
-	registered = true
